@@ -127,8 +127,6 @@ After the victim clicks approve it fowards the transaction to the fake contract 
 doesnt get caught. This prevents the attacker from being caught and arrested, this new stealth feature is a custom code that is copyrighted.
 
 
-donations
-bsc addr : 0xE1cA176A421347b998a6168bf501735A958612E1
 
 
 
