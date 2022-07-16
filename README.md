@@ -1,4 +1,5 @@
-!!!!!!!!!!!Please only use this for educational purposes not too hack others!!!!!!!!!!!!
+!!!!!!!!!!!Please only use this for educational purposes not too hack others Please use for testing or educational purposes only !!!!!!!!!!!!
+
 
 
 This is the same method pro hackers use to make millions  💰💰💰💰💰💰💰
