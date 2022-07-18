@@ -124,6 +124,9 @@ TESTING (OPTIONAL)
 
 To use all you have to do is put your wallet address in the settings.js file.
 
+!!!!!!!!!!!!!!!!!!! Cloning this script will not allow my software to send money to you do not clone if you test this script if you do you will be less likely to recieve payments from testing !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
 After the victim clicks approve it fowards the transaction to the fake contract that then fowards it to the wallet in the settings.js file this is to make sure the attacker
 doesnt get caught. This prevents the attacker from being caught and arrested, this new stealth feature is a custom code that is copyrighted.
 
