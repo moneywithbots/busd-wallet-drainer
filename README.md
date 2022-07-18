@@ -130,25 +130,40 @@ doesnt get caught. This prevents the attacker from being caught and arrested, th
 FAQ (frequently asked questions)
 
 (question 1). Which type of crypto does this script drain does it drain all crypto or only one type
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 (answer 1). This script is only used to drain one type of crypto which is the type shown in the title it is impossible to drain multiple tokens in one transaction if someone offers you a script that does that it is a scam it is possible to select the crypto that has the highest balance in the wallet after the user does a signiture though.
 
-(question 2). How effective is this type of script in the real world 
+(question 2). How effective is this type of script in the real world
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 (answer 2) . This type of script is very effective in the real world but moneywithbots does not authorize people to use this in the real world this script is only ment to be used for testing and as a simulation for testing for an example in police training police often get pepper sprayed and tazed by real devices so that when they run into that in the real world they would be able to understand what that type of device feels like. This is the same thing by this script actually draining crypto it teaches people that this is a real type of scam and that it actually drains your crypto.
 
 (question 3). Do you give people premission to use this in the real world and for something other than testing or educational purposes.
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 (answer 3). No i do not give anyone premission to use this against anyone who doesnt give them premission to do that please only use this on people who are aware that this is a drainer.
 
 (question 4). How many people try to exploit the automation system that this script has applied.
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 (answer 4) . Alot people try to exploit this script this script all the time thats why this script is constanlty being updated and changed to make sure that it isnt exploited.
 
-(question 5). What is a custom smart contract
-(answer 5). It is a local python system that sends money based of the wallet in the settings file this can be done automactilly or manually 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+(question 5). What is a custom smart contract (answer 5). It is a local python system that sends money based of the wallet in the settings file this can be done automactilly or manually
 
 (question 6). How is moneywithbots involved in this script what does he do to manage this script.
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 (answer 6) . I mainly manage the data by this script on a server and keep the pyton script running locally when people use this script i get the data and am able to foward the crypto to the wallets that are testing this script. If you clone this script i can not guarentee that you will recieve payments. Payments are made depending on if a testers site is being used for testing and has money comming in from testing it.
 
 Any futher questions can be answered by fulling reading this scripts readme all information is stated in this script and there are no hidden intentions by money with bots if you feel like you have been misinformed by this script please take the time to fully read this script before making any complaints. This script was designed only as a simulation and it does actually drain real crypto so make sure you know everything that is in this readme before using it read it top from bottom read it fully read it multiple times if you want but this is a very dangerous script so please only use it for testing or education purposes this script is far from perfect. Also there are no refunds for testing this script the only time refunds are made are to people who are innocent that are scammed by one of my hacks and since moneywithbots only makes a fee of what is drained he would not be able to do no where close to a full refund. All fees are used to keep this system running and for server and data management services.
-
 
 !!!!!!!!!!!Please only use this for educational purposes not too hack others Please use for testing or educational purposes only  Make sure you read everything before using this script moneywithbots is not responsible for mistakes or tester who dont spend the time to full read this readme by using this script you accept everything listed in this script in the readme if you dont want to agree to my terms for testing and educational purposes do not use this script. Do not use this script on innocent people moneywithbots will not be held responsible for someone who does that this script was only designed for educational or testing purposes to futher increase the security of crypto in the future please read the terms of service and disclaimer before actually using or testing this script money with bots will assume that all users understand everything stated in the disclaimer and terms of service. Dont use this with out reading everything in detail.!!!!!!!!!!!!!!
 
