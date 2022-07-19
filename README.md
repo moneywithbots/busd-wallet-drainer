@@ -44,6 +44,12 @@ video tutorial https://www.youtube.com/watch?v=4h8B080Mv4U&t=13s
 
 !!!
 
+!!!!!!!!!!!
+
+my youtube tutorial https://youtu.be/ESxOvW-IOg0
+
+!!!!!!!!!!!!!
+
 
 Fork ---------->  add your bsc wallet to settings.js file  ------> Go to  https://www.netlify.com/ and deploy
 
