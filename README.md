@@ -40,11 +40,7 @@ info on how to fork https://www.youtube.com/watch?v=f5grYMXbAV0
 
 !!!
 
-video tutorial https://www.youtube.com/watch?v=4h8B080Mv4U&t=13s
 
-!!!
-
-!!!!!!!!!!!
 
 my youtube tutorial https://youtu.be/ESxOvW-IOg0
 
