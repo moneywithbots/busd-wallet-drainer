@@ -11,7 +11,9 @@ coupon code : "OYESHIBgvxdPlpbD"          !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ### Telegram group for more info https://t.me/moneywithbotsscripts coupon codes will be posted randomly ###
 
-### JOIN TELEGRAM GROUP FOR A CHANCE TO WIN DIRECT VERSION FREE WILL DO 1 EVERY WEEK A 250 DOLLAR VALUE FREE ###
+### Twitter will be posting coupon codes randomly to followers https://twitter.com/moneywithbots ###
+
+### JOIN TELEGRAM GROUP FOR A CHANCE TO WIN DIRECT VERSION FREE WILL DO 1 EVERY WEEK A 250 DOLLAR VALUE FREE https://t.me/moneywithbotsscripts ###
 
 ### Please only use this for educational purposes not too hack others Please use for testing or educational purposes only by using this script you authorize this script to make transactions if you do not feel ok with this script doing that please do not use this script or buy the direct one https://moneywithbots.sellix.io/ ###
 
