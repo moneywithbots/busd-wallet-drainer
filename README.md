@@ -1,3 +1,7 @@
+### Read my common myths and scams before buying scripts from anyone on github https://github.com/moneywithbots/Common-scams-and-myths- ###
+
+
+
 ### THIS FREE SCRIPT IS OFTEN DETECTED BY GOOGLE FASTER SO FOR DIRECT UNDETECTEDABLE SCRIPTS DIRECT TO YOUR WALLET NO WAIT https://moneywithbots.sellix.io/ ###
 
 
