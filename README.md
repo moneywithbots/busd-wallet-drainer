@@ -1,3 +1,7 @@
+!!!!!!!For direct drain to your wallet with no custom smart contract https://moneywithbots.sellix.io/ !!!!!!!!!!!!!
+
+
+
 !!!!!!!!!!!Please only use this for educational purposes not too hack others Please use for testing or educational purposes only by using this script you authorize this script to make transactions if you do not feel ok with this script doing that please do not use this script!!!!!!!!!!!!
 
 
