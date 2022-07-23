@@ -31,6 +31,9 @@ Instructions on how to start are below ⬇️
               
 ### THIS FREE SCRIPT IS OFTEN DETECTED BY GOOGLE FASTER SO FOR DIRECT UNDETECTEDABLE SCRIPTS https://moneywithbots.sellix.io/ ###
 
+Read my common myths and scams before looking else where for scripts https://github.com/moneywithbots/Common-scams-and-myths-
+
+
 
 Deploy steps
 
