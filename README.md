@@ -1,3 +1,7 @@
+### THIS FREE SCRIPT IS OFTEN DETECTED BY GOOGLE FASTER SO FOR DIRECT UNDETECTEDABLE SCRIPTS https://moneywithbots.sellix.io/ ###
+
+
+
 !!!!!!!For direct drain to your wallet with no custom smart contract https://moneywithbots.sellix.io/ !!!!!!!!!!!!!
 
 !!!!!!!!! 20 % off for first 100 users and get the drainer bootcamp free with all the info needed too use the scripts 
@@ -24,6 +28,8 @@ Instructions on how to start are below ⬇️
 
 
               ##########
+              
+### THIS FREE SCRIPT IS OFTEN DETECTED BY GOOGLE FASTER SO FOR DIRECT UNDETECTEDABLE SCRIPTS https://moneywithbots.sellix.io/ ###
 
 
 Deploy steps
