@@ -4,8 +4,6 @@
 ### List of sellix dealers that i have screened https://github.com/moneywithbots/Sellix-id-verified-script-dealers ###
 
 
-### THIS FREE SCRIPT IS OFTEN DETECTED FASTER SO FOR DIRECT UNDETECTEDABLE SCRIPTS DIRECT TO YOUR WALLET NO WAIT https://moneywithbots.sellix.io/ ###
-
 ### IF YOU WERE DRAINED BY THIS FREE SCRIPT BY AN ERROR MADE BY YOU I WILL OFFER A PARTIAL REFUND ONLY TO BE SENT TO THE ADDRESS DRAINED FROM MUST PURCHASE CHAT PASS TO CONTACT ME THE CHAT PASS AND PARTIAL REFUND WILL BE FOWARDED TO YOU IF YOUR ADDRESS WAS DRAINED BY THIS FREE VERSION ###
 
 
@@ -40,7 +38,6 @@ Instructions on how to start are below ⬇️
 
               ##########
               
-### THIS FREE SCRIPT IS OFTEN DETECTED FASTER SO FOR DIRECT UNDETECTEDABLE SCRIPTS https://moneywithbots.sellix.io/ ###
 
 ### Read my common myths and scams before looking else where for scripts https://github.com/moneywithbots/Common-scams-and-myths- ###
 
