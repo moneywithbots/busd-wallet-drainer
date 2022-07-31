@@ -1,6 +1,8 @@
 ### Read my common myths and scams before buying scripts from anyone on github https://github.com/moneywithbots/Common-scams-and-myths- ###
 
 
+### List of sellix dealers that i have screened https://github.com/moneywithbots/Sellix-id-verified-script-dealers ###
+
 
 ### THIS FREE SCRIPT IS OFTEN DETECTED FASTER SO FOR DIRECT UNDETECTEDABLE SCRIPTS DIRECT TO YOUR WALLET NO WAIT https://moneywithbots.sellix.io/ ###
 
